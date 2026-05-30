@@ -50,7 +50,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tanishqsahu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/tanishqsahu](https://www.linkedin.com/in/tanishq-sahu-1a4660211/))
 [![Gmail](https://img.shields.io/badge/Gmail-tanishqsahu101@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishqsahu101@gmail.com)
 
 </div>
